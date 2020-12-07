@@ -3,12 +3,12 @@
 function startCounting()
 {
 	
-	for(var i = 0; i < 100; i++)
+	for(var i = 0; i < 101; i++)
 	{
 		console.log(i);
 	}
 	
-	return i;
+	return i
 }
 
 startCounting();
